@@ -4,6 +4,6 @@
 
 ## Features
 + You can add your daily goals
-+ There are edit and delete button as well to update and remove
++ You can edit and delete your specific tasks as well
 + After completing the task you can mark the task as done
 + Mobile responsive
