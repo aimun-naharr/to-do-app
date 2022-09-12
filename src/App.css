@@ -4,7 +4,7 @@
 color: white;
 }
 body{
-    background-color: #6d89899d;
+    background-color: #395b6481;
     
 }
 .app-wrapper{
@@ -13,11 +13,9 @@ body{
     max-width: 500px;
     display: flex;
     flex-direction: column;
-   margin-top: 20px;
-   margin-top: 20px;
-   padding-top: 20px;
-   padding-bottom: 10px;
    
+   padding-bottom: 10px;
+   margin: 128px auto;
 background-color: #2c3333;
 min-height: 600px;
 }
@@ -25,6 +23,7 @@ min-height: 600px;
     background-color: #2c3333;
     color: white;
     margin-bottom: 20px;
+    margin-top: 30px;
 }
 .todo-form{
     background-color: #2c3333;
@@ -37,6 +36,7 @@ min-height: 600px;
    border-radius: 5px;
     background-color: #395b64;
     font-size: 17px;
+    padding: 5px;
    
 }
 .input::placeholder{
@@ -122,6 +122,7 @@ min-height: 600px;
   @media screen and (max-width:600px) {
     .app-wrapper{
         max-width: 400px;
+        margin: 80px auto;
     }
     .input{
         width: 300px;
