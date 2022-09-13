@@ -1,6 +1,6 @@
 ## To-do app 
 
-![alt text](https://i.ibb.co/jHx5p3n/To-do-app.png)
+![alt text](https://i.ibb.co/g93bRxy/To-do-app-1.png)
 
 ## Features
 + You can add your daily goals
